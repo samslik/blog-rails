@@ -7,4 +7,3 @@ class ApplicationController < ActionController::Base
     render html: "Goodbye world"
   end
 end
-gtrbbvtrgbtgbgtrvbrgverfc
